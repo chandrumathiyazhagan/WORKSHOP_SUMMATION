@@ -1,5 +1,4 @@
 ## WORKSHOP ----SUMMATION OF TWO NUMBERS USING ANDROID STUDIO.
-# EX_5_SIMPLE-CALCULATOR_GIT
 
 ## AIM:
 To develop a program to create a simple calculator using Android Studio.
